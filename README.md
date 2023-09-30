@@ -44,10 +44,10 @@ Hello there! I'm [Samith Chowdhury](https://samith.dev), an Android developer ðŸ
 
 </br>
 
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
+<a href="https://github.com/sheksamith/AIChatAssist" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sheksamith&repo=AIChatAssist&theme=dracula" />
 </a>
-<a href="https://github.com/AbhishekMaira10/deldrone" target="_blank">
+<a href="https://github.com/sheksamith/RSFA" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sheksamith&repo=RSFA&theme=dracula" />
 </a>
 <div align="center">
