@@ -36,11 +36,11 @@ Hello there! I'm [Samith Chowdhury](https://samith.dev), an Android developer ğŸ
 
 <hr>
 
-<details>
+<!-- <details>
 <summary>ğŸ“ˆ My GitHub Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sheksamith&show_icons=true&theme=dracula" alt="sheksamith" />
-</details>
+</details> -->
 
 </br>
 
