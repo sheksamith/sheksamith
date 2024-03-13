@@ -8,7 +8,7 @@
 
 <br>
 
-Hello there! I'm [Samith Chowdhury](https://samith.dev), an Android developer 📱 based in Seattle. I specialize in crafting native applications using ***Kotlin and Java***, and when I'm not immersed in code, you can find me enjoying two of my favorite hobbies: playing video games 🎮 and cricket 🏏.
+Hello there! I'm [Samith Chowdhury](https://samith.dev), an Android developer 📱 based in the vibrant land of Bangladesh. I specialize in crafting native applications using ***Kotlin and Java***, and when I'm not immersed in code, you can find me enjoying two of my favorite hobbies: playing video games 🎮 and cricket 🏏.
 <br>
 
 
